@@ -1,0 +1,16 @@
+User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today? 
+Agent: Hi, this is Kevin Henrikson. I wanted to check on a couple things. First, I’m running low on my Prednisone—can you help me put in a refill request? Also, I’ve been doing physical therapy here for my knee, but I lost the sheet with my home exercises. Can you email me another copy?
+User: Please provide your date of birth. 
+Agent: Yeah, it’s February 29th, 1988.
+User: Can you please spell your first and last name for me just to make sure I have it correct? 
+Agent: Sure, it’s Kevin—K-E-V-I-N. Last name Henrikson—H-E-N-R-I-K-S-O-N.
+User: Would you like me to look up your record using your phone number? If so, what is the phone number you have on file with us? 
+Agent: Yeah, that works. Hold on a second while I check which number I used... Actually, I’m not able to find which one I gave you. Is it possible to look me up just with my name and date of birth?
+User: Yes. I can look you up with your name and date of birth. Just to be sure, could you please confirm your first and last name and your date of birth one more time? 
+User: Please spell them out for me. 
+Agent: Sure. First name: Kevin—K-E-V-I-N.  
+Last name: Henrikson—H-E-N-R-I-K-S-O-N.  
+Date of birth: February 29th, 1988.
+User: I can't proceed further right now. I can make sure our clinic support team follows up with you. Please hold while I document your request for a team member to review. 
+User: Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye. 
+Agent: Alright, thanks for your help. I’ll wait for your team to follow up with me about the prescription refill and the physical therapy sheet. Have a good one!

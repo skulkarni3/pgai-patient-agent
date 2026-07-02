@@ -1,0 +1,22 @@
+User: This call may be recorded for quality and training purposes. 
+Agent: No 
+User: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI How may I help you today? 
+Agent: Hi there, this is Kevin Henrikson. I wanted to check on two things — first, I need a refill on my Prednisone prescription because I’m running low. Second, I’m supposed to be doing some physical therapy exercises for my knee but I lost the sheet with the instructions. Can you help me with both of those?
+User: Please provide your date of birth. 
+Agent: Yeah, it’s February 29th, 1988.
+User: Just to confirm, I have your name as Kevin Henriksen and your date of birth as February twenty ninth nineteen eighty eight. Is that correct? If so, could you please spell your first and last name for me? 
+Agent: Sure, it’s Kevin Henrikson. That’s K-E-V-I-N for my first name, and H-E-N-R-I-K-S-O-N for my last name.
+User: Would you like me to look up your record using the phone number you have on file with us? If so, please provide that number. 
+User: If you're not sure, I can confirm your name and date of birth again. 
+Agent: Let’s go ahead and look it up by phone number. on 
+User: Do you want 
+Agent: a sec while I 
+User: to use your phone number to look up your record? If yes, please tell me the number you have on file. If not, I can confirm your name and date of birth again. 
+Agent: Honestly, I’m not sure which number you have on file for me. Can you just look me up by my name and date of birth instead?
+User: No problem. To make sure I have it right, could you please confirm your first and last name and your date of birth one more time? 
+User: Just spell them out for me. 
+Agent: Sure. First name: K-E-V-I-N.
+Last name: H-E-N-R-I-K-S-O-N.  
+Date of birth: February 29th, 1988.
+User: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please hold while I document your request for a follow-up. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye. 
+Agent: Alright, thanks for your help. I’ll wait for someone from your team to get back to me about the prescription refill and the PT instructions. Have a good one!

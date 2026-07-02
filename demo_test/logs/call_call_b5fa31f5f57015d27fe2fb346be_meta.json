@@ -1,0 +1,27 @@
+{
+  "call_id": "call_b5fa31f5f57015d27fe2fb346be",
+  "call_type": "phone_call",
+  "agent_id": "agent_7f09d57a2a258906f848af483d",
+  "agent_version": 0,
+  "agent_name": "PGAI Patient Tester \u2014 Kevin Henrikson",
+  "contact_dynamic_variables": {},
+  "custom_sip_headers": {},
+  "call_status": "registered",
+  "latency": {},
+  "metadata": {
+    "test_run": true,
+    "target": "pgai_customer_support",
+    "timestamp": "2026-07-02T22:08:58.788770"
+  },
+  "call_cost": {
+    "product_costs": [],
+    "total_duration_seconds": 0,
+    "total_duration_unit_price": 0,
+    "combined_cost": 0
+  },
+  "data_storage_setting": "everything",
+  "opt_in_signed_url": false,
+  "from_number": "+13502078963",
+  "to_number": "+18054398008",
+  "direction": "outbound"
+}

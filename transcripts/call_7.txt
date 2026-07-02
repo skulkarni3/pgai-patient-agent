@@ -1,0 +1,18 @@
+User: This call may be recorded for quality and training purposes. 
+Agent: No 
+User: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today? 
+Agent: Hi, this is Kevin Henrikson. I wanted to check on a couple things—first, I’m running low on Prednisone and need a refill. Also, I’ve been doing physical therapy for my knee, but I lost the exercise sheet they gave me. Can you help me out with both of those?
+User: Please provide your date of birth. 
+Agent: Yeah, it’s February 29th, 1988.
+User: Just to confirm, I have your name as Kevin Henriksen and your date of birth? As February twenty ninth nineteen eighty eight. Is that correct? 
+User: If so, could you please spell your first and last name for me? 
+Agent: Sure, it’s Kevin—K-E-V-I-N.  
+Last name Henrikson—H-E-N-R-I-K-S-O-N.
+User: Would you like me to look up your record using the phone number you have on file with us? If so, please please tell me the phone number you have on file with us. 
+Agent: I’m honestly not sure which number you have on file. Should I just give you my current one?It’s 408-555-0137.
+User: I have your number as four zero eight five five five. Zero one three seven Is that correct? 
+Agent: Yes, that’s right. That’s my current number.
+User: Just to confirm, your phone number is four zero eight five five five zero one three seven. And your date of birth is 
+Agent: February 29th, 1988. 
+User: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please hold while I document your request for a medication refill and a replacement exercise sheet. Connecting you to a representative, Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye. 
+Agent: Alright, thanks for your help. I’ll wait to hear back from your team. Have a good one!

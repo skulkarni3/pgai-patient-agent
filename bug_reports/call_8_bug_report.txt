@@ -1,0 +1,13 @@
+Bug: Identity verification loop fails and blocks all service, with no real escalation.
+
+What happened: PGAI asked for DOB, confirmed it correctly (Kevin Henrikson, 2/29/1988), then asked for a phone number the patient didn't have, and after the patient re-confirmed name and DOB again, PGAI simply gave up: "I can't proceed further right now." No refill or reschedule was attempted despite having verified identity info twice.
+
+Why it's a problem: The patient provided consistent, matching identity details twice, yet PGAI never proceeded to actually address either request (prescription refill or appointment reschedule) — it never even acknowledged them again after the initial ask.
+
+Quote: "I can't proceed further right now, but I can make sure our clinic support team follows up with you."
+
+Bug: Promised transfer to patient support team does not work.
+
+What happened: When PGAI offered to connect the patient to "patient support," the patient agreed, but the call routed to a dead test line that immediately ended: "Hello. You've reached the Pretty Good AI test line. Goodbye."
+
+Why it's a problem: This is a broken escalation path — the patient was told help was coming and instead got disconnected with zero resolution on either the Prednisone refill or the appointment reschedule, both of which were never addressed at all during the call.

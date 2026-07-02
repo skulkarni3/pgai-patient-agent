@@ -1,0 +1,11 @@
+**Bug: Ignored part of a multi-part question**
+When the patient asked "Is there a way to get in for an appointment pretty quickly? ... Also, do you guys have an x-ray machine or any imaging in the clinic," PGAI skipped straight to identity verification ("Can... you please provide your date of birth?") and never addressed either the scheduling request or the imaging question at any point in the call.
+
+**Bug: Failed to complete the lookup/booking and gave no real resolution**
+After the patient spelled his name and DOB twice and admitted he couldn't find his phone number, PGAI never actually found his record or offered to book him as a new patient (which he explicitly asked about: "or can I just book as a new patient?"). It simply gave up: "I can't proceed further right now, but I can make sure our clinic support team follows up with you." This is a vague deferral rather than an actual action (no appointment booked, no ticket confirmed).
+
+**Bug: Promised transfer never actually happened**
+PGAI asked "Would you like me to connect you our connecting you to a representative," but instead of transferring, the call just cut to a generic "You've reached the Pretty Good AI test line. Goodbye." This reads as the escalation being promised and then abandoned rather than fulfilled — the patient's original questions (appointment, imaging) were left completely unanswered.
+
+**Minor: Redundant/looping identity verification**
+PGAI asked the patient to spell his name once, then asked again immediately after ("Would you like to use your phone number... please spell them out for me"), despite already having a confirmed spelling — this comes across as robotic looping rather than efficient verification.

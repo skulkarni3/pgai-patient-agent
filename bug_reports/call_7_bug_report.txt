@@ -1,0 +1,8 @@
+Bug: Failed identity verification loop caused by phone number confirmation errors, then no real transfer occurred.
+Details: After Kevin gave his phone number (512-555-0199), PGAI repeatedly misheard/repeated it back incorrectly across multiple turns ("five five one nine nine nine nine," then "five five zero one nine nine nine," then "five five five zero one nine nine"), forcing Kevin to correct it three times. This ultimately caused PGAI to declare it "unable to verify your information," derailing the scheduling request entirely. This is a process failure — the agent could not reliably capture/confirm structured data it had just been given.
+
+Bug: Promised transfer to "patient support team" never actually happened.
+Details: PGAI said "I'll connect you to our patient support team to help you get scheduled," but the next line was just a generic disconnect message: "Hello. You've reached the Pretty Good AI test line. Goodbye." No actual handoff or escalation occurred, leaving Kevin's appointment request unresolved.
+
+Bug: Clinical scheduling advice given without full context.
+Details: PGAI told Kevin that steroid injections for tendonitis "can be done during a regular appointment depending on your evaluation and the provider's recommendation" — this is reasonable as a general policy statement, not a specific issue, but combined with the failed scheduling afterward, the call ends with the patient no closer to actually booking anything despite two confirmed clinical answers upfront.

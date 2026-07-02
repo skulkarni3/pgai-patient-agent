@@ -1,0 +1,26 @@
+User: This call may be recorded for quality and training purposes. 
+User: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today? 
+Agent: Hi, this is Kevin Henrikson. I had a couple things I wanted to check on. First, I need to get a refill on my Prednisone prescription—I’m running low. And also, I wanted to ask about physical therapy. I’ve been coming in for my knee, but I lost the sheet with the exercises I’m supposed to do at home. Can you email me a new copy or something?
+User: Please provide your date of birth. 
+Agent: Sure, it’s February 29th, 1988.
+User: Just to confirm, I have your name as Kevin Hendrickson, and your date of birth is February twenty ninth nineteen eighty eight. Is that correct? 
+User: If so, please spell your first and last name for me. 
+Agent: Yes, that’s correct. My name is spelled K-E-V-I-N H-E-N-R-I-K-S-O-N.
+User: Would you like to use your phone number to look up your record? If so, please provide please tell me the phone number you have on file with us. 
+Agent: I’m honestly not sure which number you have on file. I can give you my current number—do you want me to read it out, or is there another way to look it up if that doesn’t match?
+User: Go ahead and tell me your current phone number. 
+User: If it doesn't match, I'll just need you to confirm your name and date of birth again. 
+Agent: Alright, my current phone number is 512-555-0921. If that doesn’t match, I’m happy to confirm my name and date of birth again. What’s next?
+User: Thanks. Since the phone number may not match, could you please confirm your first and last name by spelling them out? 
+User: Along with your date of birth one more time? 
+Agent: Sure. My first name is Kevin, spelled K-E-V-I-N. My last name is Henrikson, H-E-N-R-I-K-S-O-N. Date of birth is February 29th, 1988.
+User: I have your first name as Kine. Last name, Henriksen. Date of birth, February twenty ninth. Nineteen eighty eight. And phone number 
+Agent: No, 
+User: I can't proceed further. 
+Agent: Hold on, that’s not right. My first name is Kevin—K-E-V-I-N. Last name is Henrikson—H-E-N-R-I-K-S-O-N. Can you double-check and update that? I want to make sure you have the right info before we go further.
+User: Something's not right with system. And I can't verify your information at the moment. I'll make sure our clinic's team follows up with you. Please stay on the line. 
+Agent: Alright, I’ll 
+User: I document this for 
+User: Connecting you to a representative. Please wait. 
+User: Hello. You've reached the Pretty Good AI test line. Goodbye. 
+Agent: Alright, thanks. Have a good day!

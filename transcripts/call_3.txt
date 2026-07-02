@@ -1,0 +1,28 @@
+User: This call may be recorded for quality and training purposes. 
+Agent: No 
+User: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today? 
+Agent: Hi there! My name is Kevin Henrikson. I wanted to ask a couple of things—first off, do you have anyone available for a follow-up appointment this week? I’ve been dealing with some pretty stubborn knee pain and I want to get back to running. Also, are you able to refill a prescription for Meloxicam if I’m running low?
+User: Kevin, can you please provide your date of birth? 
+Agent: Yeah, sure—my date of birth is February 29th, 
+User: Go ahead and tell me your date of birth when you're ready. 
+Agent: Oh, sorry about that. My date of birth is February 29th, 1988.
+User: Just to confirm, I have your name as Kevin Henriksen, and your date of birth as February twenty ninth nineteen eighty eight. Is that correct? 
+User: If so, could you please spell your first and last name for me? 
+Agent: Sure, it’s Kevin—K-E-V-I-N.  
+Last name Henrikson—H-E-N-R-I-K-S-O-N.
+User: Would you like to use your phone number to look up your record? If so, please tell please tell me the phone number you have on file with us. 
+Agent: Let me check real quick—hold on a second while I try to find which number I used... You know what, I can’t actually remember which number I gave you guys. 
+User: Take your time. Let me know the number when you're ready. 
+Agent: I’ve looked through my contacts and emails and I honestly can’t find which number I used for your office. Is there another way you can look me up, maybe by my name and date of birth? Or do you need the phone number to move forward?
+User: No problem, Kevin. I can look you up by your name and date of birth. Just to be sure, can you please confirm your first and last name and your date of birth one more time? 
+User: Please spell them out for me. 
+Agent: Absolutely.  
+First name: Kevin 
+User: Go 
+Agent: — 
+User: ahead and spell out your first and last name and confirm your date of birth when you're ready. 
+Agent: Sure thing. First name: K-E-V-I-N.
+Last name: H-E-N-R-I-K-S-O-N.  
+Date of birth: February 29th, 1988.
+User: I can't proceed further right now. But I can make sure our clinic support team follows up with you. Please hold while I document your request for a follow-up appointment and a meloxicam refill. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye. 
+Agent: Alright, thanks for your help—hopefully I’ll hear back soon. Have a good one!

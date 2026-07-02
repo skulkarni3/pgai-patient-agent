@@ -1,0 +1,8 @@
+Bug: Call terminates without resolving either of the patient's requests.
+Details: Kevin asked for a Prednisone refill and to have a knee PT exercise sheet emailed to him. PGAI spent the entire call verifying identity but never confirmed, processed, or even acknowledged either request. After identity was verified, PGAI said "Connecting you to a representative. Please wait." and then immediately delivered "Hello. You've reached the Pretty Good AI test line. Goodbye." — ending the call with no refill submitted, no email sent, and no actual transfer having occurred.
+
+Bug: Promised escalation never followed through.
+Details: PGAI stated it was "Connecting you to a representative," implying a live transfer, but instead just played a generic closing message and hung up. This is a broken escalation path — the patient was told a transfer was happening but got dropped instead.
+
+Bug: Identity verification process was clunky and self-contradicting.
+Details: PGAI first asked Kevin to confirm a phone number on file, but then said "I have your number as three five zero two zero seven eight nine six three. Is that correct?" — providing the number itself rather than requiring the patient to state it, undermining the point of using it as a verification factor.

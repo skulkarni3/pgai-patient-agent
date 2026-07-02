@@ -1,0 +1,8 @@
+Bug: Agent claims to be connecting the call to a representative, but instead the call just terminates with a canned test-line message.
+Details: After repeatedly failing to answer whether X-rays are offered on site or whether Dr. Ross is available, PGAI says "I can't proceed further right now, but I can make sure our clinic support team follows up with you... Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye." This is a broken escalation — no actual transfer occurs, and the patient's original questions (X-ray availability, provider availability) are never answered.
+
+Bug: Agent never actually answers the X-ray availability question despite repeatedly saying it would check.
+Details: PGAI says "Let me check on the X-ray availability for you" and later "To confirm details about X-ray services, I'll need to verify your information first," implying the answer is coming once identity is verified. Even after the patient provides name, DOB, and phone number multiple times, PGAI never circles back with an actual answer — it just ends the call.
+
+Bug: Redundant/looping identity verification.
+Details: PGAI asks for DOB, then asks the patient to spell their name, then asks for a phone number, then asks the patient to confirm name and DOB again from scratch ("could you please confirm your first and last name and your date of birth one more time?") even though this had just been provided seconds earlier. This looping made the interaction feel robotic and never actually resulted in any information being unlocked for the patient.

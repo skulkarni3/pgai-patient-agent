@@ -1,0 +1,39 @@
+User: This call may be recorded for quality and training purposes. 
+User: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today? 
+Agent: Hi there, this is Kevin Henrikson. I had a couple quick questions before I schedule an appointment. First off, do you guys have an x-ray machine in your clinic? Or would I have to go somewhere else if the doctor wants images?
+User: We do have X-ray services available right here in our clinic. If your doctor needs images, you won't have to go anywhere else. 
+User: What other questions could I help with? 
+Agent: Great, that’s good to know. Next question—do you do custom orthotics for severe plantar fasciitis? My feet have been killing me, and I really need something better than the over-the-counter stuff. If you do, which provider should I see for that?
+User: Yes. Our clinic can help with custom orthotics for severe plantar fasciitis. You'll want to see one of our orthopedic doctors for an evaluation, either doctor Dubey Hauser doctor Doug Ross, or doctor Adam Bricker. They can assess your fee Any of those doctors can evaluate your plantar fasciitis and discuss custom orthotics with you, Would you like to schedule an appointment for that? 
+User: or do you have more questions first? 
+Agent: Yeah, I’ve got a couple more quick ones before I book. 
+
+First—where exactly are you located, and is there parking? I’m not great with directions, so if you could give me the simplest way to get there and let me know about parking validation, that’d help a lot.
+User: We're located at one two three four Recovery Way, suite two hundred, Austin. There is free patient parking in the surface lot right in front of the building. If you need more help with direct is there anything else you'd like to know before booking your appointment? 
+Agent: Alright, that's straightforward—thanks. And just to double check, is the clinic wheelchair accessible? My mom might need to come with me, and she uses a wheelchair. Are there any arrangements if she needs help getting onto the exam table?
+User: Yes. The clinic is wheelchair accessible. If your mom needs help getting onto the exam table, just let us know when you arrive, and our staff will assist her. Anything else I can answer 
+User: would you like to go ahead and would you like to schedule your appointment now? 
+User: Or do you have another question first? 
+Agent: Yeah, just one more—I promise. What insurance plans do you accept? I just switched to Aetna, and I want to make sure it’s covered before I go through the whole booking process.
+User: We accept most major insurance plans including Aetna, You should be covered. If you'd like, I can help update your insurance info or answer anything else before we book. 
+Agent: Perfect. I don’t have my member ID handy right now—hold on, let me see if I can find it... Actually, I can’t find it at the moment. Is it fine if I bring my insurance card with me to the appointment, or do you need it ahead of time?
+
+Also, while I’m asking, what’s the typical copay for a specialist visit with Aetna? I like to know what to expect before I show up.
+User: You can bring your insurance card with you to your appointment No problem. As for the co pay, it usually depends on your specific Aetna plan, but most plans have a set specialist co pay. You can check your card or Aetna's website for the exact amount. Anything else I can help 
+User: with before we schedule? 
+Agent: Yeah, last thing—do you have WiFi in the waiting room? I’ll probably bring my laptop since sometimes appointments run late. Or, if not, do you at least have something to read, like magazines?
+User: Yes. We'd have WiFi available in the waiting room. There are also magazines if you prefer to read. Ready to schedule your appointment now? 
+Agent: Alright, that works for me! Go ahead and book me with Dr. Doug Ross—earliest available slot, please, preferably in the afternoon if you’ve 
+User: Please provide your date of birth so I can get started with booking your appointment. 
+Agent: Sure, it's February 29th, 1988.
+User: Just to make sure I have everything right, could you please spell your first and last name for me? 
+User: I have your date of birth as February twenty ninth nineteen eighty eight. Is that correct? 
+Agent: Yes, that's correct—February 29th, 1988. And my name is Kevin Henrikson. That's K-E-V-I-N H-E-N-R-I-K-S-O-N.
+User: Would you like to use your phone number to look up your record? If so, please tell me please tell me the phone number you have on file with us. 
+Agent: Actually, I’m not sure which phone number you have on file for me. Can you just look me up by my name and date of birth? If you need a number, I can give you my current one.
+User: No problem. I have your name as Kevin Henriksen. And your date of birth as February twenty ninth nineteen eighty eight. Could you please confirm that both are correct? 
+User: If so, I'll try to look you up with that information. 
+Agent: Yes, both are correct—Kevin Henrikson (with an “O-N” at the end) and February 29th, 1988. That’s me. Go ahead and look me up with that.
+User: Can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you connecting you to a representative. 
+User: Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye. 
+Agent: Alright, thanks for your help anyway! Have a good day.

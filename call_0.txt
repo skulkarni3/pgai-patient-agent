@@ -1,0 +1,46 @@
+user: This call may be recorded for quality and training purposes.
+agent: Sure, no problem! Hi, this is Kevin Henrikson. I actually have a bunch of questions, is now a good time or should I call back later? I'm trying to figure out a couple of things—one, I need to possibly reschedule my appointment, but also, I’m running low on Prednisone and I think I was supposed to get some new physical therapy exercises. Can you help me with all of that, or do I need to talk to different people? And by the way, do you guys have parking? My mom is coming in a wheelchair, so is your office actually accessible? Sorry, I know that’s a lot—can you walk me through it?
+user: Happy to help with all your questions. Kevin. Before we get started, would you like to create a demo patient profile? I just need your first great. I have your name as Kevin Henriksen. Is that correct?
+agent: Yes, that’s right—it’s Kevin Henrikson, with an O-N at the end. And my date of birth is February 29th, 1988. I’m not sure if you need any other info, but I can give you whatever you need… well, except my member ID, I’ll have to dig around for that one.
+
+Can we go through my questions while you set up my profile? I really need to figure out the Prednisone refill and also I lost the sheet with my physical therapy exercises—can
+user: Your patient profile is set up and your date of birth is listed as July fourth two thousand for demo purposes. How can I help you today?
+user: Would you like to start with rescheduling your appointment your medication refill, or your physical therapy questions?
+agent: Let’s start with the appointment reschedule—I think that’s probably easiest. I have something on Tuesday but I need to move it to Thursday instead, if that’s possible? Preferably in the morning, because I’ve got work meetings in the afternoon.
+
+And then about the Prednisone refill—do I need to see the provider to get that, or can you just send in a refill? I’m getting kind of low and my pharmacy keeps bugging me.
+
+Oh, and about the PT stuff—I lost my exercise sheet and honestly, I’m not sure if I’m doing them right. Can you email me a copy, or do I need to come in for that?
+
+Also—sorry, I know it’s a lot, but is your clinic actually wheelchair accessible? My mom’s coming and she’s in a wheelchair, so I want to make sure we can get her in and out without any trouble. And do you all validate parking? The last time I went, I couldn’t figure out where to park and it was kind of a pain.
+
+Sorry for the rapid-fire questions, but I just want to get everything sorted at once!
+user: No problem, Kevin. You don't have any appointments scheduled right now, so we'll need to book a new one for you. Let's start with that. Would you like a Thursday afternoon
+agent: Wait, I’m pretty sure I had something on the calendar for Tuesday—are you sure it’s not under a different name or maybe there’s a system error? I definitely remember booking it, unless I totally messed something up. Can you double-check for me?
+
+If not, fine, let’s just book a new appointment for Thursday morning instead, if you have something early. I’d like to see whoever can help with both my prescription and my physical therapy questions—do I need to see a doctor, or can I just book with a physical therapist for all this? Honestly, I don’t want to run around to a bunch of different people.
+
+And while you’re looking, can you please answer about the wheelchair access and parking? My mom’s going to be with me, so I really need to know before I book anything.
+user: Let me check on Thursday morning availability for you. For your prednisone refill and physical therapy questions, it's best to book with a provider who can address both usually a doctor or nurse practitioner, You won't need separate appointments. About your other questions, Yes. Our clinic is wheelchair accessible. For parking, there is patient parking available. But we do not validate parking. Would you like to book the earliest Thursday morning appointment?
+agent: Okay, that’s helpful, thanks. Yes, please, book me for the earliest Thursday morning slot—whatever you’ve got.
+Just to confirm: so I can talk about my Prednisone refill and get new PT exercises all in one appointment, right? And will they be able to email me the exercise sheet, or do I have to pick up a physical copy? I’m not super techy but I can manage email if that’s easier.
+
+Also, wait—so the parking isn’t free? How much does it cost, and do I need cash, or is there a pay station or something? Last time I ended up driving in circles and it was super annoying.
+
+Sorry, last thing: can you remind me what the address is? And is there a restroom in the clinic? My mom sometimes needs to use it right away when we get there. Sorry, I know I’m asking a million questions, but I just want to make sure we’re set before I drag everyone out to the appointment!
+user: You can discuss your prednisone refill and physical questions in one appointment with doctor Kelly Noble. They can usually email you the exercise sheet, but if you prefer, you can ask for a printed copy during your visit. Parking is available, but it's not free. There is a pay station, and you can use a card. The clinic address is Pivot Point Orthopedic. One two three Main Street, Suite two hundred, San Francisco. There is a restroom in the clinic. Would you like to book the Thursday, July ninth appointment at eleven thirty AM with doctor Kelly Noble.
+agent: Okay, 11:30am on Thursday, July 9th with Dr. Kelly Noble—got it. I think that works, but wait, July 9th… is that next week or the week after? I always get the dates mixed up. Can you double-check that’s the next available Thursday?
+
+And, sorry, can you repeat the address one more time? I want to make sure I put it in my phone right. Also, is there anything I should bring to the appointment—insurance card, old prescriptions, anything like that? Oh, and I still can’t find my member ID, is that going to be a problem?One last thing (I promise!)—do you have WiFi in the waiting room? I might need to bring my laptop to keep up with work if I’m waiting awhile.
+
+Thanks for your patience—I know I’m a handful!
+user: No worries, Kevin. July ninth is next Thursday. Your appointment is set for eleven thirty AM with doctor Kelly Noble. The clinic address is Pivot Point Orthopedics one two three four Recovery Way, suite two hundred, Austin. Please bring your government issued photo ID insurance card, and a list of your current medications. You have any imaging not having your member ID isn't a problem. We can look it up when you arrive. You're welcome to bring your laptop
+agent: Great,
+user: You're all set for your you're welcome.
+user: Appointment is confirmed for Thursday, July ninth at eleven thirty AM with doctor Kelly No at Pivot Point Orthopedics one two three four Let me know if you have any other questions before your visit.
+user: Looking forward to seeing you Thursday, July ninth at eleven thirty AM.
+agent: Awesome, thanks for all your help! Sorry for all the questions—I'm just a little scatterbrained today. I’ll see you guys Thursday at 11:30 with Dr. Noble at 1234 Recovery Way, Suite 200, Austin.And I’ll bring my insurance card, ID, and my list of meds. Thanks for being patient with me!Have a great day—see you soon!
+user: You're welcome. Kevin, we'll see you Thursday at eleven thirty AM. Safe travels, and let us know if you need anything else before your visit.
+agent: Will do! Thanks again for answering all my questions. I’ll see you Thursday at 11:30. Have a good one!
+user: Thursday at eleven thirty. Take care.
+agent: You too! Thanks so much—see you Thursday at 11:30. Bye!

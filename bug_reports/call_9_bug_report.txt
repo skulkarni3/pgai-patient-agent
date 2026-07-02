@@ -1,0 +1,11 @@
+Bug: PGAI never resolves either of the patient's two requests, despite an extended identity-verification process.
+
+Details: After collecting Kevin's DOB, PGAI loops through verification redundantly — asking him to spell his name and confirm DOB, then immediately asking again in the very next turn ("Could you please spell your first and last name for me one more time and confirm your date of birth?"), even though this had just been done. This repetition feels robotic and adds no value.
+
+Bug: Agent claims to be "connecting you to a representative" but the call just ends instead.
+
+Details: After all the verification, PGAI says "I can't proceed further right now, but I can make sure our clinic support team follows up with you... Connecting you to a representative. Please wait." It then immediately plays "Hello. You've reached the Pretty Good AI test line. Goodbye." No actual transfer or handoff occurs — the call simply terminates. Neither the Prednisone refill nor the PT visit count question was ever actually answered or confirmed as submitted; the patient is left only with a vague promise that "the clinic team" will follow up, with no ticket number, timeframe, or confirmation given.
+
+Bug: Multi-part question ignored throughout the call.
+
+Details: Kevin asked two distinct questions up front (Prednisone refill status and remaining PT visits). PGAI never addresses either topic substantively at any point in the call — it spends the entire interaction on identity verification and then ends without answering.

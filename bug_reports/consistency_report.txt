@@ -1,0 +1,15 @@
+# Bug Report: Contradictions Across PGAI Calls
+
+## Bug 1: On-site X-ray availability is inconsistent
+**Calls:** call_2, call_7, call_10
+**Details:** In call_2, PGAI stated: "We do not have x-ray machines on-site at Pivot Point Orthopaedics. If you need imaging, we'll refer you to a nearby facility." In call_10, PGAI again confirmed: "we do not have an X-ray machine on-site... If you need imaging, we can refer you to a nearby facility." However, in call_7, PGAI told the caller: "We do have X-ray services available at Pivot Point Orthopedics, so most imaging can be done right here during your visit." This is a direct contradiction — the clinic cannot both have and not have on-site X-ray equipment.
+
+## Bug 2: Provider name spelling/identity inconsistent for joint/nerve pain specialist
+**Calls:** call_3, call_4
+**Details:** In call_3, PGAI named the joint pain specialists as "Dr. Doug Ross" and "Dr. Adam Brecker." In call_4, when discussing nerve pain, PGAI listed the specialists as "Dr. Hauser, Dr. Ross, and Dr. Bricker." The surname "Brecker" (call_3) vs. "Bricker" (call_4) is inconsistent, and it's unclear if this is meant to be the same provider or a different one. Provider names/spellings should be consistent across calls.
+
+## Bug 3: Clinic hours description inconsistent
+**Calls:** call_2, call_10
+**Details:** In call_2, PGAI said: "Our clinic is open Monday through Friday, but we're closed on weekends" — implying standard full weekday hours with no unusual gaps. In call_10, PGAI gave a much more limited and irregular schedule: "9 AM to 4 PM on Monday, Tuesday, and Thursday. 12 PM to 7 PM on Wednesday, and 9 AM to 12 PM on Friday." These two descriptions of the clinic's weekly availability are inconsistent — call_2 implies a normal full-time schedule, while call_10 describes a much more restricted, irregular one (e.g., only 3 hours open on Friday). Since hours should be a fixed fact, these can't both be accurate representations of the same schedule.
+
+No other contradictions (address, parking, wheelchair accessibility, Aetna acceptance/copay policy) were found — those details were consistent across all calls where mentioned.

@@ -1,0 +1,8 @@
+Bug: Neither of the patient's two requests (Prednisone refill, PT plan discussion) was ever addressed.
+Details: The call opened with a clear two-part ask — "I need a refill" and "can I talk to the doctor about switching my treatment plan?" — but PGAI never returned to either topic. It got stuck entirely on identity verification (DOB, name spelling, phone lookup) and the call ended without ever attempting the refill or offering any next step for the PT concern.
+
+Bug: Promised escalation/transfer never actually happens.
+Details: After failing to look up the record by phone number, PGAI says "I can't proceed further right now, but I can make sure our clinic support team follows up with you... Connecting you to a representative. Please wait." This implies a live transfer or callback is being initiated, but no representative ever comes on, no follow-up request is confirmed, and the call just terminates. The "follow-up" is asserted but never demonstrated or logged with any specifics (no case number, no confirmation of contact method).
+
+Bug: Repetitive identity verification loop.
+Details: PGAI asks for DOB, gets it, confirms it, asks for name spelling, gets it, then asks for phone number. When the caller can't provide the phone number, PGAI asks the caller to re-confirm the exact same name and DOB it had already verified moments earlier ("can you please confirm your first and last name and your date of birth one more time? Please spell them out for me.") — redundant and robotic rather than trying an alternative lookup method or explaining why the previous verification wasn't sufficient.

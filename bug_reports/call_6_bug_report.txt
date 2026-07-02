@@ -1,0 +1,8 @@
+Bug: Agent claims it will connect the patient to a representative but the call just ends.
+Details: After struggling through identity verification, PGAI says "I can't proceed further right now... Connecting you to a representative. Please wait" but the call immediately terminates with "Hello. You've reached the Pretty Good AI test line. Goodbye." No actual transfer occurs and neither of the patient's original requests (Prednisone refill, PT exercise sheet) is resolved.
+
+Bug: Neither of the patient's two requests was ever actually acted upon.
+Details: The patient asked for a Prednisone refill and a copy of PT exercises at the start of the call. PGAI never confirms either action was completed — it only says it will "document your request" before the call cuts off, leaving both tasks undone with just a vague promise of follow-up ("I can make sure our clinic support team follows up with you").
+
+Bug: Redundant/looping identity verification.
+Details: PGAI asks for DOB twice in a row ("Could you tell me your date of birth?" immediately after the patient already gave it), and later asks the patient to spell their name twice ("Go ahead and spell your first and last name" right after the patient had just done so). This makes the interaction feel robotic and repetitive rather than a natural verification flow.

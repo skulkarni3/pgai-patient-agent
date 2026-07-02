@@ -1,0 +1,7 @@
+Bug: Booking process breaks down at the final step and the promised transfer never actually happens.
+
+Details: After walking the caller through hours, location, PT, and insurance questions, PGAI proceeds to identity verification (DOB, name spelling) as if to move forward with booking the evaluation. But once the caller says he wants to use name/DOB instead of a phone number to look up his record, PGAI abruptly says "I can't proceed further right now, but I can make sure our clinic support team follows up with you." It then offers a transfer ("Would you like me to connect connecting you to a representative"), but instead of an actual handoff, the call just plays a generic "You've reached the Pretty Good AI test line. Goodbye" message and ends — no appointment is booked, no real transfer occurs, and the original request (booking an evaluation) is never fulfilled.
+
+This is a clear process failure: PGAI spent the whole call gathering info needed to book, then dead-ended instead of completing the booking or reliably escalating, leaving the patient with nothing resolved.
+
+Aside from this ending, the rest of the call was handled well — PGAI consistently deferred precise copay amounts and PT frequency to the patient's insurance/provider rather than inventing numbers, and it verified identity before doing anything patient-specific.

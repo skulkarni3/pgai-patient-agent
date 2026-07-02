@@ -1,0 +1,30 @@
+User: This call may be recorded for quality and training purposes. 
+Agent: That's 
+User: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today? 
+Agent: Hi there! My name is Kevin Henrikson. I wanted to ask a few questions before scheduling an appointment. First off, do you have an x-ray machine in your clinic, or would I need to go somewhere else for imaging if I need it?
+User: Seven Point Orthopedic offers a wide range of orthopedic care. But I don't have specific details about on-site X-ray services. Most orthopedic clinics do Is there anything else you'd like to know about the clinic or our services before scheduling? 
+Agent: Yeah, actually, I’ve got a couple more things. Where exactly are you located, and is there parking? Also, can you validate parking if I drive in?
+User: We're located at one two three four Recovery Way. Suite two hundred. Austin. There's free patient parking available on the surface lot right in front of the building. We don't require anything else I can answer for you about the clinic or appointments? 
+Agent: Alright, that's helpful. One more thing—my mom is coming with me and she uses a wheelchair. Is your office fully accessible? And if she needs help getting onto the exam chair, do you have staff who can assist with that?
+User: The clock is fully accessible for wheelchairs. Its staff can help your mom get onto the exam chair if needed. 
+User: If you have any special requests or wanna let us know in advance, just mention it when booking. 
+Agent: Perfect, that makes things a lot easier, thanks. Now about appointments—I wanted to see Dr. JJ Zhuang for some nerve pain in my lower back. What’s the earliest opening you have with him? And do you take Aetna insurance?
+User: Doctor JJ Chuang is not listed as a provider at Pivot Point Orthopaedics. Our doctors include Doctor. Duthie Hauser, doctor Doug Ross, and doctor Adam Bricker. Would you like to see one of them free would you like to hear more about these doctors, or do you have a preference for who you'd like to see for your lower back nerve pain? 
+Agent: Can you tell me a bit about each of those doctors? Specifically, which one is best at treating nerve pain or back issues? And also, do you take Aetna insurance? That’s important for me before I book anything.
+User: Here's a quick overview. Doctor. Dugie Houser focuses on quick orthopedic procedures and first time evaluations. Great for new patients or straightforward issues. Doctor Doug Ross handles complex or advanced orthopedic procedures. Often for challenging cases that need extra time and precision. Doctor Adam Bricker provides approachable, patient focused care for a wide range of joint and muscle conditions. With practical treatment plans. All three are experienced with back and nerve pain, but doctor Ross is known for handling more complex cases. If your pain is severe or has been hard to treat, he may be a good fit. For a first visit, or less complicated pain, doctor Hauser or doctor Bricker would also be excellent choices. As for insurance, Pivot Point Orthopaedics accepts most insurance plans, including Aetna. Would you like to sched would you like to schedule with doctor Ross doctor Hauser, or doc do you have a preference for doctor you'd like to see? 
+User: Or would you like me to recommend one based on your needs? 
+Agent: Let’s go with Dr. Ross since my pain’s been around for a while and nothing else has helped. What’s his earliest available appointment? Oh, and do you know what the typical copay 
+User: Please 
+Agent: is for a 
+User: provide your date of birth. 
+Agent: Sure, it’s February 29th, 1988.
+User: Just to confirm, I have your name as Kevin Henriksen. And your date of birth is Feb twenty ninth nineteen eighty eight. Is that correct? 
+User: If so, we can move forward. If not, could you please spell your first and last name for me? 
+Agent: Yes, that’s correct—Kevin Henrikson, date of birth February 29th, 1988. Let’s move forward. So, what’s the soonest Dr. Ross can see me, and do you know the usual copay with Aetna for a specialist visit?
+User: Have your phone number as three five zero two zero seven eight nine six three, and your date of birth is February twenty ninth nineteen eighty eight. Is that correct? 
+Agent: Yes, that's correct. My phone number is 350-207-8963, and my date of birth is February 29th, 1988. Can we go ahead and check Dr. Ross's earliest available appointment? And if you could let me know about the Aetna copay as well, that would be great.
+User: I can't proceed further right now, but I can make sure our clinics support team follows up with you. Would you like me to connect you? 
+Agent: Yeah, please have someone from your team follow up with me. I really need to get this scheduled soon and want those copay details. Thanks—looking forward to their call.
+User: Connecting you to a representative. Please wait. 
+User: Hello. You've reached the Pretty Good AI test line. Goodbye. 
+Agent: Alright, thanks anyway. I’ll wait for someone to follow up with me. Have a good one!

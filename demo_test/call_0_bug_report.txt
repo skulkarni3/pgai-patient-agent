@@ -1,0 +1,13 @@
+Bug: Agent set patient DOB to a different demo value than what the patient provided, without flagging or correcting it.
+Details: Kevin explicitly gave his DOB as "February 29th, 1988," but PGAI responded "your date of birth is listed as July fourth two thousand for demo purposes" — a fabricated mismatch that was never reconciled or explained as an identity-verification step.
+
+Bug: Agent gave conflicting clinic addresses within the same call.
+Details: Early in the call PGAI stated the address as "123 Main Street, Suite 200, San Francisco," then later restated it as "1234 Recovery Way, suite 200, Austin" — different street, suite context, and city, with no acknowledgment of the discrepancy.
+
+Bug: Agent never actually addressed the Prednisone refill request.
+Details: Kevin asked multiple times whether a refill could be sent in ("do I need to see the provider to get that, or can you just send in a refill?"), but PGAI only ever said the topic could be "discussed" at the upcoming appointment. No refill was submitted, and the question of whether an interim refill could be called in was never actually answered — just deferred to a future visit.
+
+Bug: Agent ignored the "double-check Tuesday appointment" request, silently overwriting it.
+Details: Kevin insisted he had a prior appointment on Tuesday and asked PGAI to verify it wasn't lost in the system ("are you sure it's not under a different name or maybe there's a system error?"). PGAI never confirmed or investigated this — it simply stated "You don't have any appointments scheduled right now" and moved to booking new one, without addressing whether the original Tuesday booking was an error or data loss.
+
+Overall, aside from these data-consistency slips, PGAI answered the multi-part questions (parking, accessibility, restroom, WiFi, documents to bring) directly and completed the booking action rather than just deferring it.
